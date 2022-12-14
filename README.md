@@ -1,11 +1,13 @@
 I suppose this counts as an 'about me' page.
 
+Yes, I'm yet another autistic transfem game developer with depression. Very stereotypical, I know.
+
 I've recently completed an MSc Computer Games degree at the University of Essex, earning a Distinction grade.
 Still a bit burnt-out from it, but I suppose that I'll get this readme refined at some point.
 
 I use she/they pronouns.
 
-I have a decent understanding of Java, Python, and Unity.
+I have a decent understanding of Java, Python, C#, and Unity.
 
 My postgraduate dissertation project was [*CrabFight*](https://11belowstudio.itch.io/crabfight), a Game-With-A-Purpose to evaluate the impact of environment complexity on animals living in the ecoystem, through the medium of online multiplayer crab-based PvP combat.
 
