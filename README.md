@@ -1,13 +1,13 @@
 I suppose this counts as an 'about me' page.
 
-I'm a MSc Computer Games student at the University of Essex, currently bogged down with assignments,
-but I suppose that I'll get this readme refined at some point.
+I've recently completed an MSc Computer Games degree at the University of Essex, earning a Distinction grade.
+Still a bit burnt-out from it, but I suppose that I'll get this readme refined at some point.
 
 I use she/they pronouns.
 
 I have a decent understanding of Java, Python, and Unity.
 
-Currently finishing up my postgraduate dissertation: developing [*CrabFight*](https://11belowstudio.itch.io/crabfight), a Game-With-A-Purpose to evaluate the impact of environment complexity on animals living in the ecoystem, through the medium of online multiplayer crab-based PvP combat.
+My postgraduate dissertation project was [*CrabFight*](https://11belowstudio.itch.io/crabfight), a Game-With-A-Purpose to evaluate the impact of environment complexity on animals living in the ecoystem, through the medium of online multiplayer crab-based PvP combat.
 
 Some of these repositories are repositories for the work I did during my undergrad
 degree and masters degree, some of these repositories are for games and other things
