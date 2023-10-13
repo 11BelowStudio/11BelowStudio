@@ -7,7 +7,7 @@ I've recently completed an MSc Computer Games degree at the University of Essex,
 I use she/her and zhe/purr pronouns.
 
 I have a decent understanding of Java, Python, C#, and Unity.
-I have experience developing for PC and mobile, and have experience with cross-platform multiplayer development.
+I have experience designing and developing games for PC and mobile, and have experience with cross-platform multiplayer development.
 
 My postgraduate dissertation project was [*CrabFight*](https://11belowstudio.itch.io/crabfight),
 a Game-With-A-Purpose to evaluate the impact of environment complexity on animals living in the ecoystem,
@@ -30,6 +30,8 @@ This game was successfully exhibited at the [Isle of Man Festival of the Sea](ht
 Some of these repositories are repositories for the work I did during my degrees,
 some of these repositories are for games and other things
 I bodged together when I had some downtime, so a bit of a mixed bag overall.
+There are a few other projects I'm working on in the background (still in the design phase),
+so consider following me on itch.io if you want to know when they're ready.
 
 Hopefully there's something in here that you won't completely dislike.
 
