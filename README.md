@@ -2,7 +2,7 @@ Hello there!
 
 Yes, I'm yet another autistic transfem graduate game developer/designer. Very stereotypical, I know.
 
-I've recently completed an MSc Computer Games degree at the University of Essex, earning a Distinction grade.
+I've graduated from an MSc Computer Games degree at the University of Essex, earning a Distinction grade.
 
 I use she/her and zhe/purr pronouns.
 
