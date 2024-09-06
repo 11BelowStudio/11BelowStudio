@@ -1,12 +1,13 @@
+<img src="https://github.com/11BelowStudio/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://github.com/11BelowStudio/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/11BelowStudio/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /><img src="https://github.com/11BelowStudio/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+
 Hello there!
 
 Yes, I'm yet another autistic transfem graduate game developer/designer. Very stereotypical, I know.
 
-I've graduated from an MSc Computer Games degree at the University of Essex, earning a Distinction grade.
+I've graduated from an MSc Computer Games degree at the University of Essex, earning a Distinction grade in the process.
 
-I use she/her and zhe/purr pronouns.
-
-I have a decent understanding of Java, Python, C#, and Unity.
+I have a decent understanding of Java, Python, C#, Unity, and also Godot.
 I have experience designing and developing games for PC and mobile, and have experience with cross-platform multiplayer development.
 
 My postgraduate dissertation project was [*CrabFight*](https://11belowstudio.itch.io/crabfight),
@@ -19,7 +20,7 @@ now branded as *CLAWS*. This game has successfully been exhibited at
 [public](https://www.gov.uk/government/news/lincolnshire-summer-fun-to-celebrate-kings-england-coast-path)
 [events](https://www.linkedin.com/feed/update/urn:li:activity:7114586412238135296/);
 the latter of which was enabled via handover documentation I have produced,
-which has successfully allowed them to run the game at events themselves.
+which has allowed them to run the game at events themselves.
 
 I have also been employed to produce a variation of the game, called *CrabFind* - 
 a more edutainment-y digital archaeology-oriented game, developed for the Isle of Man Museum,
@@ -30,7 +31,7 @@ This game was successfully exhibited at the [Isle of Man Festival of the Sea](ht
 Some of these repositories are repositories for the work I did during my degrees,
 some of these repositories are for games and other things
 I bodged together when I had some downtime, so a bit of a mixed bag overall.
-There are a few other projects I'm working on in the background (still in the design phase),
+There are a few other projects I'm working on in the background,
 so consider following me on itch.io if you want to know when they're ready.
 
 Hopefully there's something in here that you won't completely dislike.
