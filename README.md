@@ -3,14 +3,15 @@
 
 Hello there!
 
-Yes, I'm yet another autistic transfem graduate game developer/designer. Very stereotypical, I know.
+Yes, I'm yet another autistic transfem graduate software engineer/hobbyist game developer. Very stereotypical, I know.
 
-I've graduated from an MSc Computer Games degree at the University of Essex, earning a Distinction grade in the process.
+I graduated from an MSc Computer Games degree at the University of Essex, earning a Distinction grade in the process.
 
-I have a decent understanding of Java, Python, C#, Unity, and also Godot.
-I have experience designing and developing games for PC and mobile, and have experience with cross-platform multiplayer development.
+* Strong understanding of Java, Python, C#, Unity, and also Godot.
+* Experience with data science/machine learning, mostly using Python.
+* Developed games for PC and mobile - including cross-platform multiplayer experiences.
 
-My postgraduate dissertation project was [*CrabFight*](https://11belowstudio.itch.io/crabfight),
+<!--My postgraduate dissertation project was [*CrabFight*](https://11belowstudio.itch.io/crabfight),
 a Game-With-A-Purpose to evaluate the impact of environment complexity on animals living in the ecoystem,
 through the medium of online multiplayer crab-based PvP combat,
 using 3d photogrammetry models of real marine environments.
@@ -27,7 +28,7 @@ a more edutainment-y digital archaeology-oriented game, developed for the Isle o
 using some 3D models of shipwrecks off the coast of the Isle of Man.
 This game was successfully exhibited at the [Isle of Man Festival of the Sea](https://twitter.com/MorrisLeigh/status/1679987276678397956)
 (July 2023).
-
+-->
 Some of these repositories are repositories for the work I did during my degrees,
 some of these repositories are for games and other things
 I bodged together when I had some downtime, so a bit of a mixed bag overall.
